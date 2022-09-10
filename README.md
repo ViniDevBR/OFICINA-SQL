@@ -14,5 +14,5 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
 <p align="center">
-  <img src="./assets/oficina.png" width="70%" />
+  <img src="./assets/Oficina.png" width="70%" />
 </p>
